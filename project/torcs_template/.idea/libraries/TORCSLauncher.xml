@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TORCSLauncher">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/TORCSLauncher.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
